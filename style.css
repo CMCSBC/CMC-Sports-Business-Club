@@ -331,6 +331,24 @@ footer a {
   .hero {
     min-height: 76vh;
   }
+  .contact-box {
+  margin-top: 40px;
+  padding: 30px;
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  text-align: center;
+  background: white;
+}
+
+.contact-box a {
+  color: var(--cardinal);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.contact-box a:hover {
+  text-decoration: underline;
+}
 }
 
 
