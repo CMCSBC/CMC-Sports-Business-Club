@@ -254,7 +254,9 @@ section {
 .team {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 28px;
+  gap: 12px;
+  max-width: 900px;
+  margin: 0 auto;
 }
 
 .person {
