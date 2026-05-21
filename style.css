@@ -340,15 +340,6 @@ footer a {
   background: white;
 }
 
-.contact-box a {
-  color: var(--cardinal);
-  font-weight: 600;
-  text-decoration: none;
-}
-
-.contact-box a:hover {
-  text-decoration: underline;
-}
 }
 
 
